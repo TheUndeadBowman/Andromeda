@@ -5,19 +5,12 @@
   --background-tertiary: #1b212c !important;
 }
 
-.members-1998pB,
-.sidebar-2K8pFh {
-  background: -webkit-linear-gradient(
-    top,
-    rgba(4, 27, 69, 0.1),
-    rgb(10, 49, 122)
-  );
-}
-
+/* DMs list */
 .layout-2DM8Md {
   border-radius: 20px !important;
 }
 
+/* Unread pill */
 .item-2hkk8m {
   height: 10px !important;
   width: 12px !important;
@@ -29,22 +22,25 @@
 }
 
 .container-2Pjhx- {
-  background-color: rgba(3, 21, 54, 0.4);
+  background-color: #03153666;
   border-radius: 20px !important;
   margin-top: 4px;
   margin-bottom: 4px;
 }
 
+/* Message with ping */
 .mentioned-xhSam7 {
-  background-color: rgb(34, 39, 51);
+  background-color: #222733;
 }
 
+/* Edited message, unread pill */
 .edited-3sfAzf,
 .unreadPillCap-3_K2q2 {
   visibility: hidden;
   position: relative;
 }
 
+/* Edited message */
 .edited-3sfAzf::after {
   font-size: 20px !important;
   visibility: visible;
@@ -56,8 +52,9 @@
   margin-top: -4px;
 }
 
+/* Message on hover */
 .message-2qnXI6:hover {
-  background-color: rgba(22, 28, 39, 0.5);
+  background-color: #161c2780;
 }
 
 .unreadPillCap-3_K2q2::after {
@@ -66,20 +63,25 @@
   content: "";
 }
 
+/* Typing area */
 .scrollableContainer-2NUZem {
-  background-color: rgb(60, 60, 100) !important;
+  background-color: #3c3c64 !important;
 }
 
+/* Placeholder indicator (Message #channel) */
 .placeholder-37qJjk {
   color: #cecece;
 }
 
-.closeButton-2GCmT5 {
-  color: -webkit-linear-gradient(
-    top,
-    rgba(255, 255, 255, 1),
-    rgba(255, 255, 255, 0)
-  );
+/* Code, Spoiler text */
+code,
+.inlineCode-2ngu6Y,
+.syntaxAfter-hcA4AH.after_inlineCode-1KfVgj,
+.syntaxBefore-1YQ9lW.before_inlineCode-1G9rTK {
+  background-color: #93b2ec !important;
+  color: #031536 !important;
 }
 
-/* divider-JfaTT5 isUnread-3Ef-o9 */
+.spoilerText-3p6IlD.hidden-HHr2R9 {
+  background-color: #93b2ec !important;
+}
