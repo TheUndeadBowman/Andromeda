@@ -4,11 +4,11 @@ A cool theme for Powercord. Currently in Beta.
 
 ## Installation
 
-Paste the following into command prompt:
-`git clone https://github.com/TheUndeadBowman/Andromeda.git`
-Into your themes folder. Assuming you are currently in the directory `C:\Users\<username>`:
-`cd powercord/src/Powercord/themes`
-Switch to your themes folder like so.
+Paste the following into command prompt:  
+`git clone https://github.com/TheUndeadBowman/Andromeda.git`  
+Into your themes folder. Assuming you are currently in the directory `C:\Users\<username>`:  
+`cd powercord/src/Powercord/themes`  
+Switch to your themes folder like so.  
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/72938745/112589694-933c3f80-8e27-11eb-85ff-1d937533ea5e.png)
