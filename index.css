@@ -1,0 +1,85 @@
+.theme-dark,
+:root {
+  --background-primary: #1b212c !important;
+  --background-secondary: #041b45 !important;
+  --background-tertiary: #1b212c !important;
+}
+
+.members-1998pB,
+.sidebar-2K8pFh {
+  background: -webkit-linear-gradient(
+    top,
+    rgba(4, 27, 69, 0.1),
+    rgb(10, 49, 122)
+  );
+}
+
+.layout-2DM8Md {
+  border-radius: 20px !important;
+}
+
+.item-2hkk8m {
+  height: 10px !important;
+  width: 12px !important;
+  background: -webkit-linear-gradient(
+    left,
+    rgba(255, 255, 255, 1),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+.container-2Pjhx- {
+  background-color: rgba(3, 21, 54, 0.4);
+  border-radius: 20px !important;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.mentioned-xhSam7 {
+  background-color: rgb(34, 39, 51);
+}
+
+.edited-3sfAzf,
+.unreadPillCap-3_K2q2 {
+  visibility: hidden;
+  position: relative;
+}
+
+.edited-3sfAzf::after {
+  font-size: 20px !important;
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "✎";
+  margin-left: 20px;
+  margin-top: -4px;
+}
+
+.message-2qnXI6:hover {
+  background-color: rgba(22, 28, 39, 0.5);
+}
+
+.unreadPillCap-3_K2q2::after {
+  visibility: visible;
+  position: absolute;
+  content: "";
+}
+
+.scrollableContainer-2NUZem {
+  background-color: rgb(60, 60, 100) !important;
+}
+
+.placeholder-37qJjk {
+  color: #cecece;
+}
+
+.closeButton-2GCmT5 {
+  color: -webkit-linear-gradient(
+    top,
+    rgba(255, 255, 255, 1),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+/* divider-JfaTT5 isUnread-3Ef-o9 */
