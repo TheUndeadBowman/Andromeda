@@ -15,3 +15,16 @@ Switch to your themes folder like so.
 ![image](https://user-images.githubusercontent.com/72938745/112589760-a94a0000-8e27-11eb-9b8b-2f9a9febaa91.png)  
 ![image](https://user-images.githubusercontent.com/72938745/112589847-d1d1fa00-8e27-11eb-8217-b5feb5d4a4f8.png)  
 ![image](https://user-images.githubusercontent.com/72938745/112589975-12317800-8e28-11eb-8c5d-77d741fb4b10.png)
+
+## Changelog
+
+### v0.2
+
+- Changed all color values to hex
+- Added comments to indicate selectors
+- Fixed a bug (Scrolling to the bottom of a channel would show a different color there- weird)
+- Changed color of spoiler and code
+
+### v0.1
+
+- Initial version.
