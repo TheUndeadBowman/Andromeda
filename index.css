@@ -1,8 +1,8 @@
 .theme-dark,
 :root {
-  --background-primary: #1b212c !important;
-  --background-secondary: #041b45 !important;
-  --background-tertiary: #1b212c !important;
+  --background-primary: #1e1f26 !important;
+  --background-secondary: #283655 !important;
+  --background-tertiary: #1e1f26 !important;
 }
 
 /* DMs list */
@@ -78,10 +78,32 @@ code,
 .inlineCode-2ngu6Y,
 .syntaxAfter-hcA4AH.after_inlineCode-1KfVgj,
 .syntaxBefore-1YQ9lW.before_inlineCode-1G9rTK {
-  background-color: #93b2ec !important;
-  color: #031536 !important;
+  background-color: #d0e1f9 !important;
+  color: #283655 !important;
 }
 
 .spoilerText-3p6IlD.hidden-HHr2R9 {
-  background-color: #93b2ec !important;
+  background-color: #d0e1f9 !important;
+}
+
+/* User Profile */
+.container-3baos1 {
+  background-color: #4d648d !important;
+}
+
+/* Status, Buttons */
+.subtext-3CDbHg,
+.button-14-BFJ {
+  color: #ffffff !important;
+}
+
+/* DM Search Bar */
+.searchBarComponent-32dTOx {
+  background-color: #4d648d !important;
+  color: #ffffff !important;
+}
+
+/* Friends List */
+.peopleList-3c4jOR {
+  background-color: #28365570;
 }
