@@ -11,12 +11,16 @@ Into your themes folder. Assuming you are currently in the directory `C:\Users\<
 Switch to your themes folder like so.  
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/72938745/112589694-933c3f80-8e27-11eb-85ff-1d937533ea5e.png)
-![image](https://user-images.githubusercontent.com/72938745/112589760-a94a0000-8e27-11eb-9b8b-2f9a9febaa91.png)  
-![image](https://user-images.githubusercontent.com/72938745/112589847-d1d1fa00-8e27-11eb-8217-b5feb5d4a4f8.png)  
-![image](https://user-images.githubusercontent.com/72938745/112589975-12317800-8e28-11eb-8c5d-77d741fb4b10.png)
+
+
 
 ## Changelog
+
+### v0.3
+
+- Changed the color scheme (Should look about 10% cooler than before)
+- Changed the color of the friends list (Mine is still empty tho)
+- Added consent (You can commit if you want :>)
 
 ### v0.2
 
