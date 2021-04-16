@@ -105,5 +105,10 @@ code,
 
 /* Friends List */
 .peopleList-3c4jOR {
-  background-color: #28365570;
+  background-color: #28365570 !important;
+}
+
+/* Theme Toggler Card */
+.powercord-product.cardPrimary-1Hv-to.card-3Qj_Yx {
+  background-color: #283655 !important;
 }
