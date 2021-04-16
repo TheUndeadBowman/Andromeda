@@ -22,6 +22,10 @@ Switch to your themes folder like so.
 - Changed the color of the friends list (Mine is still empty tho)
 - Added consent (You can commit if you want :>)
 
+#### v0.3.1
+
+- Added border for the Theme Toggler plugin (thanks Nirlep)
+
 ### v0.2
 
 - Changed all color values to hex
