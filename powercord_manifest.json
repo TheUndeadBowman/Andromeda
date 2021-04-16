@@ -1,9 +1,9 @@
 {
     "name": "Andromeda",
     "description": "A trip to space without leaving your computer.",
-    "version": "0.2",
+    "version": "0.3",
     "author": "TheUndeadBowman#4216",
     "theme": "index.css",
-    "consent": "false",
+    "consent": "true",
     "license": "MIT"
 }
